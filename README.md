@@ -10,7 +10,7 @@
 
 
 ### Diagramma di sequenza
-<img src="https://raw.githubusercontent.com/ITISEnricoFermi/socket-chat-client/master/diagrams/Class%20Diagram.JPG" alt="Class Diagram">
+<img src="https://raw.githubusercontent.com/ITISEnricoFermi/socket-chat-client/master/diagrams/Class%20Diagram.JPG" alt="Sequence Diagram">
 
 ## Authors
 
